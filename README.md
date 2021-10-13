@@ -1,0 +1,5 @@
+- 👀  Hello, I’m @Nasty07..
+- 💻  IT Sys Admin @ToubisEditions!
+- 🐍  In love with Python!
+- 🌱  Currently learning C#
+- 📫  Reach me on Discord => Nasty#8147
