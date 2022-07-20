@@ -1,4 +1,4 @@
 - 👀  Hello, I’m @Nasty07..
 - 💻  IT Technician @ToubisEditions!
 - 🐍  In love with Python!
-- 📫  Reach me on Discord => Nasty#8147
+- 📫  Reach me on Discord => Nasty#8148
