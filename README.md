@@ -3,4 +3,4 @@
 - 💻  Founder & CEO @NT Hosting LTD
 - 🐍  In love with Python & Networking
 - 🧱  Currently working on my own XDP firewall
-- 📫  Reach me on Discord => Nasty#1010 at https://nthost.eu/discord
+- 📫  Reach me on Discord => @nasty.py at https://nthost.eu/discord
