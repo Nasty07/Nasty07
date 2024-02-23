@@ -1,6 +1,1 @@
-- 👀  Hello, I’m @Nasty07..
-- 💻  IT Technician @ToubisEditions
-- 💻  Founder & CEO @NT Hosting LTD
-- 🐍  In love with Python & Networking
-- 🧱  Currently working on my own XDP firewall
-- 📫  Reach me on Discord => @nasty.py at https://nthost.eu/discord
+
